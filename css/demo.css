@@ -1,0 +1,22 @@
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+   padding:0;
+   margin: 0;
+   text-align: center;
+}
+ul.simple-tabs{
+    
+    list-style-type:none;
+    width:80%;
+    text-align:center;
+    padding-left:0px;
+    margin:0px;
+    display:block;
+    line-height:40px;
+    clear:both;
+}
+
+.tab-page{
+    float: left;
+}
